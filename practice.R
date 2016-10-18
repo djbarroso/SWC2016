@@ -2,7 +2,8 @@
 #When: October 18th, 2016
 #Who: Diego Barroso
 #Where: Hatcher Library, Room 100, at U of Michigan, Ann Arbor
-######################################################
+# This is an extra test line. Also, re-added hashes below to match end of line.
+###############################################################################
 
 # commands issued during Introduction to R session
 
