@@ -2,6 +2,7 @@
 #When: October 18th, 2016
 #Who: Diego Barroso
 #Where: Hatcher Library, Room 100, at U of Michigan, Ann Arbor
+##############################################################
 
 # commands issued during Introduction to R session
 
