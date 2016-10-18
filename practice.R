@@ -178,3 +178,4 @@ ggplot(data=surveys,
 save.image("/home/barroso/Desktop/Rpractice.RData")
 # re-loads the workspace
 load('/home/barroso/Desktop/Rpractice.RData')
+# + theme_bw()  ... can be added to the ggplot statement
